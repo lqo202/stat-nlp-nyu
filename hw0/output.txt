@@ -1,6 +1,6 @@
 ---
 name:
-   first: Slav
-   last: Petrov
-email: slav@petrovi.de
-leaderboard: SlavPetrov
+   first: Luisa
+   last: Quispe
+email: lqo202@nyu.edu
+leaderboard: LuiQ
